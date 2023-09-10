@@ -10,5 +10,7 @@ If you want the most fun time editing and changing the code, for ease of use, I 
 # Future Updates
 
 It will have a fancy loading screen (Unsure of what that will look like)
+
 Have a more user-friendly design
+
 Be able to fix everything from the front end (similar to Arch Linux)
