@@ -12,4 +12,4 @@ It will have a fancy loading screen (Unsure of what that will look like)
 
 Have a more user-friendly design
 
-Be able to fix everything from the front end
+Be able to run anything from the command line, with no limitations!!!
